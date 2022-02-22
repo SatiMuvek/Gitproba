@@ -1,0 +1,2 @@
+# Gitproba
+Git gyakorlasa
